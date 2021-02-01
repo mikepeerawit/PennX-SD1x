@@ -71,7 +71,6 @@ public class SquarelotronTest{
     }
 
     // Testing the rotateRight method.
-     
     @Test
     public void testRotateRight() {
         int [][] expected_4 = new int [][] {
